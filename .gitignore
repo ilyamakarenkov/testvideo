@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 preview/
+# RealESRGAN x4plus весит 67 МБ и не хранится в git (см. раздел Upscale в README.md)
+models/realesrgan-x4plus.onnx
+sr_test/
+models_sr_preview/
